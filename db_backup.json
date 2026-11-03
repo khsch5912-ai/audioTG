@@ -55,6 +55,14 @@
       "part": 6,
       "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_6_1793741181/lesson_6.mp3",
       "created_at": "2026-11-03T21:26:19.434266"
+    },
+    {
+      "id": 7,
+      "book_id": 1,
+      "lesson_title": "Книга очищения",
+      "part": 7,
+      "audio_url": "",
+      "created_at": "2026-11-03T21:30:35.187010"
     }
   ]
 }
