@@ -79,6 +79,14 @@
       "part": 9,
       "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_9_1793741776/lesson_9.mp3",
       "created_at": "2026-11-03T21:36:14.989428"
+    },
+    {
+      "id": 10,
+      "book_id": 1,
+      "lesson_title": "Книга молитвы",
+      "part": 10,
+      "audio_url": "",
+      "created_at": "2026-11-03T21:39:02.648425"
     }
   ]
 }
