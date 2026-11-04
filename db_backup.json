@@ -5,12 +5,6 @@
       "title": "БИДАЯТ АЛЬ-АБИД ВА КИФАЯТ АЗ-ЗАХИД",
       "author": "للعلامة الفقيه عبد الرحمن بن عبدالله البعلي الحنبلي",
       "slug": "book-9116"
-    },
-    {
-      "id": 2,
-      "title": "ДАЯТ АЛЬ-АБИД ВА КИФАЯТ АЗ-ЗАХИД",
-      "author": "للعلامة الفقيه عبد الرحمن بن عبدالله البعلي الحنبلي",
-      "slug": "book-4347"
     }
   ],
   "lessons": [
@@ -104,7 +98,7 @@
     },
     {
       "id": 14,
-      "book_id": 2,
+      "book_id": 1,
       "lesson_title": "Книга молитвы",
       "part": 12,
       "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_14_1793798672/lesson_14.mp3",
@@ -112,7 +106,7 @@
     },
     {
       "id": 15,
-      "book_id": 2,
+      "book_id": 1,
       "lesson_title": "Книга молитвы",
       "part": 13,
       "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_15_1793798746/lesson_15.mp3",
@@ -120,7 +114,7 @@
     },
     {
       "id": 16,
-      "book_id": 2,
+      "book_id": 1,
       "lesson_title": "Книга молитвы",
       "part": 14,
       "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_16_1793798801/lesson_16.mp3",
@@ -128,7 +122,7 @@
     },
     {
       "id": 17,
-      "book_id": 2,
+      "book_id": 1,
       "lesson_title": "Книга молитвы",
       "part": 15,
       "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_17_1793798901/lesson_17.mp3",
@@ -136,7 +130,7 @@
     },
     {
       "id": 18,
-      "book_id": 2,
+      "book_id": 1,
       "lesson_title": "Книга молитвы",
       "part": 16,
       "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_18_1793798978/lesson_18.mp3",
@@ -144,7 +138,7 @@
     },
     {
       "id": 19,
-      "book_id": 2,
+      "book_id": 1,
       "lesson_title": "Книга молитвы",
       "part": 17,
       "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_19_1793799051/lesson_19.mp3",
@@ -152,7 +146,7 @@
     },
     {
       "id": 20,
-      "book_id": 2,
+      "book_id": 1,
       "lesson_title": "Книга молитвы",
       "part": 18,
       "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_20_1793799112/lesson_20.mp3",
@@ -160,7 +154,7 @@
     },
     {
       "id": 21,
-      "book_id": 2,
+      "book_id": 1,
       "lesson_title": "Книга молитвы",
       "part": 19,
       "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_21_1793799188/lesson_21.mp3",
@@ -168,7 +162,7 @@
     },
     {
       "id": 22,
-      "book_id": 2,
+      "book_id": 1,
       "lesson_title": "Книга молитвы",
       "part": 20,
       "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_22_1793799265/lesson_22.mp3",
