@@ -691,6 +691,14 @@
       "part": 7,
       "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_94_1794043099/lesson_94.mp3",
       "created_at": "2026-11-07T08:55:21.605761"
+    },
+    {
+      "id": 96,
+      "book_id": 6,
+      "lesson_title": "Книга Намаза",
+      "part": 8,
+      "audio_url": "",
+      "created_at": "2026-11-07T11:32:42.409120"
     }
   ]
 }
