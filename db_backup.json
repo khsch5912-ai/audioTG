@@ -647,6 +647,14 @@
       "part": 44,
       "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_87_1794040067/lesson_87.mp3",
       "created_at": "2026-11-07T08:24:11.305461"
+    },
+    {
+      "id": 88,
+      "book_id": 6,
+      "lesson_title": "Книга ОЧИЩЕНИЯ",
+      "part": 1,
+      "audio_url": "",
+      "created_at": "2026-11-07T08:52:31.288336"
     }
   ]
 }
