@@ -1,0 +1,604 @@
+{
+  "books": {
+    "БИДАЯТ АЛЬ-АБИД ВА КИФАЯТ АЗ-ЗАХИД": {
+      "author": "للعلامة الفقيه عبد الرحمن بن عبدالله البعلي الحنبلي",
+      "slug": "book-9116",
+      "lessons": [
+        {
+          "id": 1,
+          "part": 1,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_1_1793739960/lesson_1.mp3"
+        },
+        {
+          "id": 2,
+          "part": 2,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_2_1793740169/lesson_2.mp3"
+        },
+        {
+          "id": 3,
+          "part": 3,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_3_1793740364/lesson_3.mp3"
+        },
+        {
+          "id": 4,
+          "part": 4,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_4_1793740712/lesson_4.mp3"
+        },
+        {
+          "id": 5,
+          "part": 5,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_5_1793740911/lesson_5.mp3"
+        },
+        {
+          "id": 6,
+          "part": 6,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_6_1793741181/lesson_6.mp3"
+        },
+        {
+          "id": 7,
+          "part": 7,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_7_1793741437/lesson_7.mp3"
+        },
+        {
+          "id": 8,
+          "part": 8,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_8_1793741682/lesson_8.mp3"
+        },
+        {
+          "id": 9,
+          "part": 9,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_9_1793741776/lesson_9.mp3"
+        },
+        {
+          "id": 10,
+          "part": 10,
+          "title": "Книга молитвы",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_10_1793741944/lesson_10.mp3"
+        },
+        {
+          "id": 11,
+          "part": 11,
+          "title": "Книга молитвы",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_11_1793743815/lesson_11.mp3"
+        },
+        {
+          "id": 14,
+          "part": 12,
+          "title": "Книга молитвы",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_14_1793798672/lesson_14.mp3"
+        },
+        {
+          "id": 15,
+          "part": 13,
+          "title": "Книга молитвы",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_15_1793798746/lesson_15.mp3"
+        },
+        {
+          "id": 16,
+          "part": 14,
+          "title": "Книга молитвы",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_16_1793798801/lesson_16.mp3"
+        },
+        {
+          "id": 17,
+          "part": 15,
+          "title": "Книга молитвы",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_17_1793798901/lesson_17.mp3"
+        },
+        {
+          "id": 18,
+          "part": 16,
+          "title": "Книга молитвы",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_18_1793798978/lesson_18.mp3"
+        },
+        {
+          "id": 19,
+          "part": 17,
+          "title": "Книга молитвы",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_19_1793799051/lesson_19.mp3"
+        },
+        {
+          "id": 20,
+          "part": 18,
+          "title": "Книга молитвы",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_20_1793799112/lesson_20.mp3"
+        },
+        {
+          "id": 21,
+          "part": 19,
+          "title": "Книга молитвы",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_21_1793799188/lesson_21.mp3"
+        },
+        {
+          "id": 22,
+          "part": 20,
+          "title": "Книга молитвы",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_22_1793799265/lesson_22.mp3"
+        },
+        {
+          "id": 23,
+          "part": 21,
+          "title": "Книга о закяте",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_23_1793802886/lesson_23.mp3"
+        },
+        {
+          "id": 24,
+          "part": 22,
+          "title": "Книга о закяте",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_24_1793802959/lesson_24.mp3"
+        },
+        {
+          "id": 25,
+          "part": 23,
+          "title": "Книга о закяте",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_25_1793803026/lesson_25.mp3"
+        },
+        {
+          "id": 26,
+          "part": 24,
+          "title": "Книга о закяте",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_26_1793803089/lesson_26.mp3"
+        },
+        {
+          "id": 27,
+          "part": 25,
+          "title": "Книга поста",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_27_1793805705/lesson_27.mp3"
+        },
+        {
+          "id": 28,
+          "part": 26,
+          "title": "Книга поста",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_28_1793805907/lesson_28.mp3"
+        },
+        {
+          "id": 29,
+          "part": 27,
+          "title": "Книга о Хадже",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_29_1793805974/lesson_29.mp3"
+        },
+        {
+          "id": 30,
+          "part": 28,
+          "title": "Книга о Хадже",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_30_1793806139/lesson_30.mp3"
+        },
+        {
+          "id": 31,
+          "part": 29,
+          "title": "Книга о Хадже",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_31_1793806216/lesson_31.mp3"
+        },
+        {
+          "id": 32,
+          "part": 30,
+          "title": "Книга о Хадже",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_32_1793806438/lesson_32.mp3"
+        },
+        {
+          "id": 33,
+          "part": 31,
+          "title": "Книга о Хадже",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_33_1793806664/lesson_33.mp3"
+        },
+        {
+          "id": 34,
+          "part": 32,
+          "title": "Книга о Хадже",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_34_1793806878/lesson_34.mp3"
+        },
+        {
+          "id": 36,
+          "part": 33,
+          "title": "Книга о джихаде",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_36_1793807348/lesson_36.mp3"
+        }
+      ]
+    },
+    "**Ахсар аль-Мухтасарат**": {
+      "author": "**شمس الدين أبي عبد الله محمد ابن بلبان البعلي الحنبل**ي",
+      "slug": "book-4927",
+      "lessons": [
+        {
+          "id": 37,
+          "part": 1,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_37_1793909618/lesson_37.mp3"
+        },
+        {
+          "id": 38,
+          "part": 2,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_38_1793909980/lesson_38.mp3"
+        },
+        {
+          "id": 39,
+          "part": 3,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_39_1793910021/lesson_39.mp3"
+        },
+        {
+          "id": 40,
+          "part": 4,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_40_1793910062/lesson_40.mp3"
+        },
+        {
+          "id": 41,
+          "part": 5,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_41_1793910112/lesson_41.mp3"
+        },
+        {
+          "id": 42,
+          "part": 6,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_42_1793910299/lesson_42.mp3"
+        },
+        {
+          "id": 43,
+          "part": 7,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_43_1793910350/lesson_43.mp3"
+        },
+        {
+          "id": 44,
+          "part": 8,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_44_1793910425/lesson_44.mp3"
+        },
+        {
+          "id": 45,
+          "part": 9,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_45_1793910612/lesson_45.mp3"
+        },
+        {
+          "id": 46,
+          "part": 10,
+          "title": "Книга очищения",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_46_1793910669/lesson_46.mp3"
+        },
+        {
+          "id": 47,
+          "part": 11,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_47_1793910702/lesson_47.mp3"
+        },
+        {
+          "id": 48,
+          "part": 12,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_48_1793910734/lesson_48.mp3"
+        },
+        {
+          "id": 49,
+          "part": 13,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_49_1793910801/lesson_49.mp3"
+        },
+        {
+          "id": 50,
+          "part": 14,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_50_1793911002/lesson_50.mp3"
+        },
+        {
+          "id": 51,
+          "part": 15,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_51_1793911244/lesson_51.mp3"
+        },
+        {
+          "id": 52,
+          "part": 16,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_52_1793911274/lesson_52.mp3"
+        },
+        {
+          "id": 53,
+          "part": 17,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_53_1793911306/lesson_53.mp3"
+        },
+        {
+          "id": 54,
+          "part": 18,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_54_1793911346/lesson_54.mp3"
+        },
+        {
+          "id": 55,
+          "part": 19,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_55_1793911438/lesson_55.mp3"
+        },
+        {
+          "id": 56,
+          "part": 20,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_56_1793911467/lesson_56.mp3"
+        },
+        {
+          "id": 57,
+          "part": 21,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_57_1793911501/lesson_57.mp3"
+        },
+        {
+          "id": 58,
+          "part": 22,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_58_1793911551/lesson_58.mp3"
+        },
+        {
+          "id": 59,
+          "part": 23,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_59_1793911646/lesson_59.mp3"
+        },
+        {
+          "id": 60,
+          "part": 24,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_60_1793911690/lesson_60.mp3"
+        },
+        {
+          "id": 61,
+          "part": 25,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_61_1793911712/lesson_61.mp3"
+        },
+        {
+          "id": 62,
+          "part": 26,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_62_1793911781/lesson_62.mp3"
+        },
+        {
+          "id": 63,
+          "part": 27,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_63_1793911825/lesson_63.mp3"
+        },
+        {
+          "id": 64,
+          "part": 28,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_64_1793911937/lesson_64.mp3"
+        },
+        {
+          "id": 65,
+          "part": 29,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_65_1793911981/lesson_65.mp3"
+        },
+        {
+          "id": 66,
+          "part": 30,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_66_1793912079/lesson_66.mp3"
+        },
+        {
+          "id": 67,
+          "part": 31,
+          "title": "Книга намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_67_1793912114/lesson_67.mp3"
+        },
+        {
+          "id": 68,
+          "part": 32,
+          "title": "Книга Джаназы",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_68_1793912218/lesson_68.mp3"
+        },
+        {
+          "id": 69,
+          "part": 33,
+          "title": "Книга Джаназы",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_69_1793912423/lesson_69.mp3"
+        },
+        {
+          "id": 70,
+          "part": 34,
+          "title": "Книга Джаназы",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_70_1793912645/lesson_70.mp3"
+        },
+        {
+          "id": 71,
+          "part": 35,
+          "title": "Книга Закята",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_71_1793912874/lesson_71.mp3"
+        },
+        {
+          "id": 72,
+          "part": 36,
+          "title": "Книга Закята",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_72_1793913109/lesson_72.mp3"
+        },
+        {
+          "id": 73,
+          "part": 37,
+          "title": "Книга Закята",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_73_1793913321/lesson_73.mp3"
+        },
+        {
+          "id": 74,
+          "part": 38,
+          "title": "Книга Поста",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_74_1793913576/lesson_74.mp3"
+        },
+        {
+          "id": 85,
+          "part": 39,
+          "title": "**Книга Поста**",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_85_1793982647/lesson_85.mp3"
+        },
+        {
+          "id": 81,
+          "part": 40,
+          "title": "**Книга Поста**",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_81_1793982187/lesson_81.mp3"
+        },
+        {
+          "id": 86,
+          "part": 41,
+          "title": "**Книга Хаджа и Умры**",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_86_1793982765/lesson_86.mp3"
+        },
+        {
+          "id": 83,
+          "part": 42,
+          "title": "Книга Хаджа и Умры",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_83_1793982362/lesson_83.mp3"
+        },
+        {
+          "id": 84,
+          "part": 43,
+          "title": "Книга Хаджа и Умры",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_84_1793982429/lesson_84.mp3"
+        },
+        {
+          "id": 87,
+          "part": 44,
+          "title": "Книга Хаджа и Умры",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_87_1794040067/lesson_87.mp3"
+        },
+        {
+          "id": 107,
+          "part": 45,
+          "title": "Книга Хаджа и Умры",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_107_1794082086/lesson_107.mp3"
+        },
+        {
+          "id": 108,
+          "part": 46,
+          "title": "Книга Джихада",
+          "audio_url": ""
+        }
+      ]
+    },
+    "**БУЛУГ' АЛЬ-К'АСИД ДЖУЛЛЬ** **АЛЬ-МАК'АСИД**  шарх на \"БИДАЯТ АЛЬ 'АБИД ВА КИФАЯТ АЗ-ЗАХИД\"": {
+      "author": "АбдуРрахман ибн АбдиЛлагь аль-Ба'алий (رحمه الله )",
+      "slug": "book-9374",
+      "lessons": [
+        {
+          "id": 88,
+          "part": 1,
+          "title": "Книга ОЧИЩЕНИЯ",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_88_1794041830/lesson_88.mp3"
+        },
+        {
+          "id": 89,
+          "part": 2,
+          "title": "Книга ОЧИЩЕНИЯ",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_89_1794042118/lesson_89.mp3"
+        },
+        {
+          "id": 90,
+          "part": 3,
+          "title": "Книга ОЧИЩЕНИЯ",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_90_1794042334/lesson_90.mp3"
+        },
+        {
+          "id": 91,
+          "part": 4,
+          "title": "Книга ОЧИЩЕНИЯ",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_91_1794042543/lesson_91.mp3"
+        },
+        {
+          "id": 92,
+          "part": 5,
+          "title": "Книга ОЧИЩЕНИЯ",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_92_1794042722/lesson_92.mp3"
+        },
+        {
+          "id": 93,
+          "part": 6,
+          "title": "Книга ОЧИЩЕНИЯ",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_93_1794042923/lesson_93.mp3"
+        },
+        {
+          "id": 94,
+          "part": 7,
+          "title": "Книга ОЧИЩЕНИЯ",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_94_1794043099/lesson_94.mp3"
+        },
+        {
+          "id": 96,
+          "part": 8,
+          "title": "Книга Намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_96_1794051209/lesson_96.mp3"
+        },
+        {
+          "id": 97,
+          "part": 9,
+          "title": "Книга Намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_97_1794051287/lesson_97.mp3"
+        },
+        {
+          "id": 98,
+          "part": 10,
+          "title": "Книга Намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_98_1794051344/lesson_98.mp3"
+        },
+        {
+          "id": 99,
+          "part": 11,
+          "title": "Книга Намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_99_1794051538/lesson_99.mp3"
+        },
+        {
+          "id": 100,
+          "part": 12,
+          "title": "Книга Намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_100_1794051718/lesson_100.mp3"
+        },
+        {
+          "id": 101,
+          "part": 13,
+          "title": "Книга Намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_101_1794051920/lesson_101.mp3"
+        },
+        {
+          "id": 102,
+          "part": 14,
+          "title": "Книга Намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_102_1794052129/lesson_102.mp3"
+        },
+        {
+          "id": 103,
+          "part": 15,
+          "title": "Книга Намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_103_1794052366/lesson_103.mp3"
+        },
+        {
+          "id": 104,
+          "part": 16,
+          "title": "Книга Намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_104_1794052547/lesson_104.mp3"
+        },
+        {
+          "id": 105,
+          "part": 17,
+          "title": "Книга Намаза",
+          "audio_url": "https://github.com/khsch5912-ai/audioTG/releases/download/lesson_105_1794052774/lesson_105.mp3"
+        },
+        {
+          "id": 106,
+          "part": 18,
+          "title": "Книга Намаза",
+          "audio_url": ""
+        }
+      ]
+    }
+  }
+}
